@@ -1,11 +1,9 @@
-# CodexMir
 
-codexmir · he/him
+Samir sain · he/him
 
 ---
 
 Passionate Developer and Tech Enthusiast with a love for coding, building creative projects, and exploring the world of technology.  
-Founder of @NuroxStudio
 
 ---
 
@@ -19,12 +17,10 @@ Founder of @NuroxStudio
 
 ## 🔗 Connect with me
 
-- 🌐 [Portfolio Website](#) *(Add when you have)*
+
 - 📍 India
 - 📨 [codexmir@gmail.com](mailto:devxmir@gmail.com)
 - 📸 [Instagram](https://www.instagram.com/codexmir/)
-- 🐦 [Twitter](#) *(if you have)*
-- 💼 [LinkedIn](#) *(if you have)*
 - 📂 [GitHub](https://github.com/samirsain)
 
 ---
